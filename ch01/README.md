@@ -15,3 +15,9 @@ Download the Anaconda installer from [here](https://docs.continuum.io/anaconda/i
 folder.
 Open a terminal window and type the following:
 > bash ~/Download/Anaconda3-4.3.0-MacOSX-x86_64.sh
+
+After successfully installing Anaconda, you can install new Python packages using the following:
+> conda install SomePackage
+
+Existing packages can be updated using the following:
+> conda update SomePackage
