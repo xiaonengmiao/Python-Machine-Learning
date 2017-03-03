@@ -1,4 +1,6 @@
-## Python's scientific libraries
+## Chapter 2 - Training Machine Learning Algorithms for Classification
+
+### Python's scientific libraries
 
 **NumPy**: http://www.numpy.org/
 
